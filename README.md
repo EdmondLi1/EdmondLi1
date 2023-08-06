@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a **software engineer 👨‍💻** based in Waterloo, Canada. I'm currently studying Computer Science at the University of Waterloo. I'm also passionate about **machine learning** and **data science**. 
+I'm a **software engineer 👨‍💻** based in Waterloo, Canada. I'm currently studying Computer Science with Digital Hardware Specialization (and a PMath Minor) at the University of Waterloo. I'm also passionate about **machine learning** and **data science**. 
 
-Besides the techinical aspect, I have a penchant for working out 🏋️‍♂️, sightseeing 🏞️, and cooking 🧑‍🍳!
+Besides the techinical aspect, I have a penchant for working out 🏋️‍♂️, sightseeing 🏞️,  cinematography and cooking 🧑‍🍳!
 
  📫 Connect with me on: <a href="https://www.linkedin.com/in/edmond-li2004/">LinkedIn</a>
 
