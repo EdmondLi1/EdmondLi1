@@ -40,6 +40,6 @@ Besides the techinical aspect, I have a penchant for working out 🏋️‍♂�
 
 
 
-![EdmondLi1's Stats](https://github-readme-stats.vercel.app/api?username=EdmondLi1&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+<!-- ![EdmondLi1's Stats](https://github-readme-stats.vercel.app/api?username=EdmondLi1&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EdmondLi1&color=blue"> </p>
