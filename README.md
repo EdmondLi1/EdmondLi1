@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Edmond Li </h1>
+<h2 align="center">Nice to meet you! I'm Edmond Li👋 </h1>
 
 <!--
 **EdmondLi1/EdmondLi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,15 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-I'm a **software engineer 👨‍💻** based in Waterloo, Canada. I'm currently studying Computer Science with Digital Hardware Specialization (and a PMath Minor) at the University of Waterloo. I'm also passionate about **machine learning** and **data science**. 
 
-Besides the techinical aspect, I have a penchant for working out 🏋️‍♂️, sightseeing 🏞️,  cinematography and cooking 🧑‍🍳!
-
- 📫 Connect with me on: <a href="https://www.linkedin.com/in/edmond-li2004/">LinkedIn</a>
-
-### Languages
+## Languages
 
 ![](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=yellow)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -36,7 +30,25 @@ Besides the techinical aspect, I have a penchant for working out 🏋️‍♂�
 ## Technologies
 ![](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+-->
 
+I'm studying Computer Science with Artificial Intelligence Specialization and Pure Math Minor at the University of Waterloo. I enjoy building solutions to social and everyday problems! I'm interested about **machine learning / artificial intelligence**, **data science** and backend developmnet. 
+
+- Incoming SWE Intern @ PointClickCare 🏥
+- Prev SWE Intern @ Chatsimple 💬
+- Building tech for social good @ UW Blueprint 🛠️
+- Copyright Detection in LLMs @ WAT.ai
+
+## 🌱 Currently learining about ...
+- Machine Learning techniques and different neural networks
+- RAG + LLMs workflow 
+- Database optimization and system designs
+
+## 📫 I'm seeking Fall 2025 Internships! You can reach me  ...
+
+LinkedIn: https://www.linkedin.com/in/liedmond/
+
+Email: e26li@uwaterloo.ca
 
 
 
