@@ -1,4 +1,4 @@
-<h2 align="center">Nice to meet you! I'm Edmond Li👋 </h1>
+<h2 align="center">👋 Nice to meet you! I'm Edmond  </h1>
 
 <!--
 **EdmondLi1/EdmondLi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
