@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 I'm studying Computer Science with Artificial Intelligence Specialization and Pure Math Minor at the University of Waterloo. I enjoy building solutions to social and everyday problems! I'm interested about **machine learning / artificial intelligence**, **data science** and backend developmnet. 
 
-- Incoming SWE Intern @ PointClickCare 🏥
+- SWE Intern @ PointClickCare 🏥
 - Prev SWE Intern @ Chatsimple 💬
 - Building tech for social good @ UW Blueprint 🛠️
 - Copyright Detection in LLMs @ WAT.ai
@@ -47,7 +47,6 @@ I'm studying Computer Science with Artificial Intelligence Specialization and Pu
 ## 📫 I'm seeking Fall 2025 Internships! You can reach me  ...
 
 LinkedIn: https://www.linkedin.com/in/liedmond/
-
 Email: e26li@uwaterloo.ca
 
 
