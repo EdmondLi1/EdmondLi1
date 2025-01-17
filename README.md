@@ -37,7 +37,7 @@ I'm studying Computer Science with Artificial Intelligence Specialization and Pu
 - SWE Intern @ PointClickCare 🏥
 - Prev SWE Intern @ Chatsimple 💬
 - Building tech for social good @ UW Blueprint 🛠️
-- Copyright Detection in LLMs @ WAT.ai
+- ML Developer @ WAT.ai
 
 ## 🌱 Currently learining about ...
 - Machine Learning techniques and different neural networks
