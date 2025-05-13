@@ -34,10 +34,9 @@ Here are some ideas to get you started:
 
 I'm studying Computer Science with Artificial Intelligence Specialization and Pure Math Minor at the University of Waterloo. I enjoy building solutions to social and everyday problems! I'm interested about **machine learning / artificial intelligence**, **data science** and backend developmnet. 
 
-- SWE Intern @ PointClickCare 🏥
-- Prev SWE Intern @ Chatsimple 💬
+- Prev @ PointClikcCare, Chatsimple 💬
 - Building tech for social good @ UW Blueprint 🛠️
-- ML Developer @ WAT.ai
+- ML Developer @ Wat Street
 
 ## 🌱 Currently learining about ...
 - Machine Learning techniques and different neural networks
