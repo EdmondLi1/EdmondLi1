@@ -1,4 +1,4 @@
-<h2 align="center">👋 Nice to meet you! I'm Edmond  </h1>
+<h2 align="center">👋 Nice to meet you! I'm Edmond Li  </h1>
 
 <!--
 **EdmondLi1/EdmondLi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,22 +32,29 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 -->
 
-I'm studying Computer Science with Artificial Intelligence Specialization and Pure Math Minor at the University of Waterloo. I enjoy building solutions to social and everyday problems! I'm interested about **machine learning / artificial intelligence**, **data science** and backend developmnet. 
+I'm studying **Computer Science** with _Artificial Intelligence_ Specialization and _Pure Math_ Minor at the University of Waterloo. I enjoy building solutions to social and everyday problems! I'm interested about **machine learning / artificial intelligence**, **data science**, software architecture and backend development.
 
-- Prev @ PointClikcCare, Chatsimple 💬
+Besides that I love  playing pool 🎱, badminton 🏸, and querying new  [music](https://www.last.fm/user/edmond__li) to learn and adhere to :D
+
+## Experience
+
+- SWE Intern @ Arctic Wolf 🐺
+- Prev @ PointClikcCare, Chatsimple 
+
+Previously for:
 - Building tech for social good @ UW Blueprint 🛠️
-- ML Developer @ Wat Street
+- ML Developer @ Wat Street 💸
 
 ## 🌱 Currently learining about ...
 - Machine Learning techniques and different neural networks
-- RAG + LLMs workflow 
+- Statistical Modeling and inferences
+- Real and functional analysis
 - Database optimization and system designs
 
-## 📫 I'm seeking Fall 2025 Internships! You can reach me  ...
+## 📫 I'm seeking Summer and Fall 2026 Internships! You can reach me  ...
 
 LinkedIn: https://www.linkedin.com/in/liedmond/
 Email: e26li@uwaterloo.ca
-
 
 
 <!-- ![EdmondLi1's Stats](https://github-readme-stats.vercel.app/api?username=EdmondLi1&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) -->
