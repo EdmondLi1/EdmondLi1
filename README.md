@@ -51,10 +51,10 @@ Previously for:
 - Real and functional analysis
 - Database optimization and system designs
 
-## 📫 I'm seeking Summer and Fall 2026 Internships! You can reach me  ...
+## 📫 I'm seeking Summer and Fall 2026 Internships! You can reach me at ...
 
 LinkedIn: https://www.linkedin.com/in/liedmond/
-Email: e26li@uwaterloo.ca
+Email: edmond.li@uwaterloo.ca
 
 
 <!-- ![EdmondLi1's Stats](https://github-readme-stats.vercel.app/api?username=EdmondLi1&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) -->
