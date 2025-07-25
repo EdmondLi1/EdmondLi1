@@ -34,12 +34,12 @@ Here are some ideas to get you started:
 
 I'm studying **Computer Science** with _Artificial Intelligence_ Specialization and _Pure Math_ Minor at the University of Waterloo. I enjoy building solutions to social and everyday problems! I'm interested about **machine learning / artificial intelligence**, **data science**, software architecture and backend development.
 
-Besides that I love  playing pool 🎱, badminton 🏸, and querying new  [music](https://www.last.fm/user/edmond__li) to learn and adhere to :D
+Besides that I love playing pool 🎱, badminton 🏸, and querying new [music](https://www.last.fm/user/edmond__li) to learn and adhere to :D
 
 ## Experience
 
 - SWE Intern @ Arctic Wolf 🐺
-- Prev @ PointClikcCare, Chatsimple 
+- Prev SWE @ PointClickCare, Chatsimple 
 
 Previously for:
 - Building tech for social good @ UW Blueprint 🛠️
@@ -48,10 +48,13 @@ Previously for:
 ## 🌱 Currently learining about ...
 - Machine Learning techniques and different neural networks
 - Statistical Modeling and inferences
-- Real and functional analysis
-- Database optimization and system designs
+- Real and functional analysis (i loveee pure math omg)
+- system design and scalable architecture
+- trying my best to do a Masse shot in pool
+- leetcoding + learning new dsa's
 
-## 📫 I'm seeking Summer and Fall 2026 Internships! You can reach me at ...
+
+## 📫 I'm currently seeking Summer and Fall 2026 Internships! You can reach me at ...
 
 LinkedIn: https://www.linkedin.com/in/liedmond/
 Email: edmond.li@uwaterloo.ca
