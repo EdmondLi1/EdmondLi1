@@ -45,7 +45,7 @@ Previously for:
 - Building tech for social good @ UW Blueprint 🛠️
 - ML Developer @ Wat Street 💸
 
-## 🌱 Currently learining about ...
+## 🌱 Currently learning about ...
 - Machine Learning techniques and different neural networks
 - Statistical Modeling and inferences
 - Real and functional analysis (i loveee pure math omg)
