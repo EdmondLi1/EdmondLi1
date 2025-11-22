@@ -44,6 +44,8 @@ Besides that I love playing pool 🎱, badminton 🏸, and querying new [music](
 Previously for:
 - Building tech for social good @ UW Blueprint 🛠️
 - ML Developer @ Wat Street 💸
+- ML Developer @ Wat.AI
+- Fullstack Developer, Event Coordinator @ Tech+
 
 ## 🌱 Currently learning about ...
 - Real and functional analysis (i loveee pure math omg)
@@ -53,6 +55,7 @@ Previously for:
 ## 📫 I'm currently seeking Summer and Fall 2026 Internships! You can reach me at ...
 
 LinkedIn: https://www.linkedin.com/in/liedmond/
+
 Email: edmond.li@uwaterloo.ca
 
 
