@@ -38,8 +38,7 @@ Besides that I love playing pool 🎱, badminton 🏸, and querying new [music](
 
 ## Experience
 - Incomining SWE Intern @ Hubspot
-- SWE Intern @ Arctic Wolf 🐺
-- Prev SWE Intern @ PointClickCare, Chatsimple 
+- Prev SWE Intern @ Arctic Wolf, PointClickCare, Chatsimple 
 
 Previously for:
 - Building tech for social good @ UW Blueprint 🛠️
