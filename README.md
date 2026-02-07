@@ -37,7 +37,7 @@ I'm studying **Computer Science** with _Artificial Intelligence_ Specialization 
 Besides that I love playing pool 🎱, badminton 🏸, and querying new [music](https://www.last.fm/user/edmond__li) to learn and adhere to :D
 
 ## Experience
-- Prev SWE Intern @ Arctic Wolf, PointClickCare, Chatsimple 
+- Prev SWE Intern @ Arctic Wolf, PointClickCare
 
 Previously for:
 - Building tech for social good @ UW Blueprint 🛠️
@@ -50,7 +50,7 @@ Previously for:
 - system design and scalable architecture
 - trying my best to do a Masse shot in pool
 
-## 📫 I'm currently seeking Summer and Fall 2026 Internships! You can reach me at ...
+## 📫 I'm currently seeking Fall 2026 Internships! You can reach me at ...
 
 LinkedIn: https://www.linkedin.com/in/liedmond/
 
