@@ -37,7 +37,6 @@ I'm studying **Computer Science** with _Artificial Intelligence_ Specialization 
 Besides that I love playing pool 🎱, badminton 🏸, and querying new [music](https://www.last.fm/user/edmond__li) to learn and adhere to :D
 
 ## Experience
-- Incomining SWE Intern @ Hubspot
 - Prev SWE Intern @ Arctic Wolf, PointClickCare, Chatsimple 
 
 Previously for:
